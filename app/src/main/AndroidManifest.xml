@@ -17,7 +17,8 @@
             android:name="com.alibaba.app.appsecret"
             android:value="d751a1236a17e4f10ac8ddbc72634531" />
 
-        <activity android:name=".activity.MainActivity">
+        <activity
+            android:name=".activity.LoginActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
